@@ -1,0 +1,35 @@
+body {
+    background: rgb(211, 250, 248);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+        margin-top:70px
+
+}
+h1 { 
+    color: rgb(218, 4, 121);
+    font-family: Fantasy;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    font-size: 200;
+}
+
+footer {
+    margin-bottom:30px;
+}
+.img_padrao{
+ margin-bottom:20px;
+width:300px;
+} 
+
+.logo {
+    width: 30px;
+}
